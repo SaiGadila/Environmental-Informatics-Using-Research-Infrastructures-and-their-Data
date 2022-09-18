@@ -2,14 +2,15 @@
 title: "Environmental Informatics Using Research Infrastructures and their Data"
 author: "Dr. Katharyn Duffy, Dr. Ben Ruddell"
 #date: "2020 Edition"
+
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-github-repo: 'https://github.com/katharynduffy/Environmental-Informatics-Using-Research-Infrastructures-and-their-Data'
+github-repo: 'katharynduffy/katharynduffy.github.io'
 description: "Course text for NAU INF 550"
 always_allow_html: true
 ---
->2022 Edition
+>2020 Edition
 
 # Preface {-}
 
